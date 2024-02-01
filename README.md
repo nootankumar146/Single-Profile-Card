@@ -1,1 +1,2 @@
 # Single-Profile-Card
+Welcome to the Single Profile Card project, a sleek and interactive web component created using HTML, CSS. This profile card is designed to elegantly showcase a person's information, combining responsive design and dynamic elements. HTML structures the content, CSS provides a stylish layout. Users can hover over the card to reveal additional details, creating a visually engaging experience. Explore this project to see how a single profile card can seamlessly blend design and functionality, making it a versatile addition to web interfaces.
